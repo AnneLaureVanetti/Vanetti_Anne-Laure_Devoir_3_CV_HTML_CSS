@@ -148,3 +148,52 @@ li::marker{
     font-size:1.2em;
 
 }
+
+/*issu4 Maincontent*/
+
+.flex-maincontent{
+    display: flex;
+}
+
+.flex-main{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    margin-top:30px;
+    margin-left:20px;
+
+    font-family: "raleway", sans-serif;
+    font-size: 1em;
+}
+
+.indent{
+    text-indent: 5mm;
+    margin:0
+    
+}
+.flex-formation{
+    display: flex;
+    justify-content: space-between;
+}
+
+.no-space{
+    margin:0
+}
+
+.formation-item{
+    margin-bottom:15px;
+}
+.formation-title{
+    font-weight:600;
+}
+.element-year{
+    color: #17abb3;
+}
+.element-style{
+    font-style:italic;
+    font-size: 0.9em;
+}
