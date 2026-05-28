@@ -197,3 +197,48 @@ li::marker{
     font-style:italic;
     font-size: 0.9em;
 }
+
+/*issu5 footer*/
+
+.social-item{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+
+    color: #ffffff;
+    font-size:1.3em;
+
+}
+
+.update{
+    display: flex;
+    justify-content: center;
+    
+}
+
+footer{
+    background-color: #17abb3;
+}
+ 
+small{
+  
+    margin: 10px;
+    font-family: 'Raleway';
+    font-style: italic;
+    font-size: 0.6em;
+    font-weight: 300;
+    color: #ffffff;
+    
+}
+
+.icon-style{
+    margin-top: 15px;
+}
+
+.hover-opacity{
+    opacity: 1;
+}
+
+.hover-opacity:hover{
+    opacity: 0.4;
+}
