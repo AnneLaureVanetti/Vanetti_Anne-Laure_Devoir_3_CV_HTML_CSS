@@ -25,7 +25,7 @@ h1{
     justify-content: center;
 
     font-family:"lato", sans-serif;
-    font-size: 2.5em;
+    font-size: 2.5rem;
     margin-bottom:0;
 }
 
@@ -34,7 +34,7 @@ h2 {
     justify-content: center;
 
     font-family:"lato", sans-serif;
-    font-size:1.4em;
+    font-size:1.4rem;
     margin-block:0;
 }
 
@@ -87,7 +87,7 @@ img{
     gap: 0 30px;
 
     font-family:"raleway", sans-serif;
-    font-size:0.8em;
+    font-size:0.8rem;
     font-weight: 300;
 }
 
@@ -104,7 +104,7 @@ h3{
     font-family: "lato", sans-serif;
     color: #17abb3;
     font-weight: 500;
-    font-size: 1.3em;
+    font-size: 1.3rem;
     border-bottom: 1px solid #e3e3e3;
     padding-bottom:10px;
 }
@@ -117,7 +117,7 @@ h3{
 }
 .stars{
     color: #17abb3;
-    font-size:0.7em;
+    font-size:0.7rem;
 }
 .flex-sidebar{
     display: flex;
@@ -128,7 +128,7 @@ h3{
 .font-style{
     font-family:"raleway", sans-serif;
     font-weight: 700;
-    font-size: 0.9em;
+    font-size: 0.9rem;
 }
 .lang{
     display: flex;
@@ -137,7 +137,7 @@ h3{
 }
 .font-style-lang{
     font-family:"raleway", sans-serif;
-    font-size:1em;
+    font-size:1rem;
     font-weight: 450;
 }
 .hobby-list{
@@ -154,13 +154,13 @@ ul{
 li{
     margin-bottom:5px;
     font-family:"raleway", sans-serif;
-    font-size:1em;
+    font-size:1rem;
     font-weight: 450;
 }
 
 li::marker{
     color: #17abb3;
-    font-size:1.2em;
+    font-size:1.2rem;
 
 }
 
@@ -183,7 +183,8 @@ li::marker{
     margin:30px 40px 0 40px;
 
     font-family: "raleway", sans-serif;
-    font-size: 1em;
+    font-size: 1rem;
+    text-align: justify;
 }
 
 .indent{
@@ -223,7 +224,7 @@ li::marker{
 }
 .element-style{
     font-style:italic;
-    font-size: 0.8em;
+    font-size: 0.8rem;
 }
 
 /*issu5 footer*/
@@ -234,7 +235,7 @@ li::marker{
     gap:10px;
 
     color: #ffffff;
-    font-size:1.3em;
+    font-size:1.3rem;
 
 }
 
@@ -253,7 +254,7 @@ small{
     margin: 10px;
     font-family: 'Raleway';
     font-style: italic;
-    font-size: 0.6em;
+    font-size: 0.6rem;
     font-weight: 300;
     color: #ffffff;
     
