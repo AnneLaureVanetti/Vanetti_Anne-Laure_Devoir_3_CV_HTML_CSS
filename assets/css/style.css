@@ -1,3 +1,5 @@
+/*style for all the page*/
+
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
@@ -18,7 +20,7 @@ body{
     background-color: #ffffff;
 }
 
-/*issu 1 */
+/*issu 1 Header */
 
 h1{
     display: flex;
@@ -98,7 +100,7 @@ img{
     padding-right:5px;
 }
 
-/*issu3 sidebar*/
+/*issue 3 sidebar*/
 
 h3{
     font-family: "lato", sans-serif;
@@ -164,7 +166,7 @@ li::marker{
 
 }
 
-/*issu4 Maincontent*/
+/*issue 4 Maincontent*/
 
 .flex-maincontent{
     display: flex;
@@ -227,7 +229,7 @@ li::marker{
     font-size: 0.8rem;
 }
 
-/*issu5 footer*/
+/*issue 5 footer*/
 
 .social-item{
     display: flex;
